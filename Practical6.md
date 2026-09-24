@@ -1,4 +1,4 @@
-# Practical 6: Privacy Policy Analysis of LeetCode
+# Practical 6: Privacy Policy Analysis of HackerRank
 
 ## Aim
 
@@ -8,7 +8,7 @@ To analyze the Privacy Policy of **LeetCode** and identify how it collects, uses
 
 ## Organization
 
-**LeetCode** is an online programming and technical interview preparation platform that provides coding problems, contests, training tools, discussion features, and other programming-related services.
+**HackerRank** is an online programming and technical interview preparation platform that provides coding problems, contests, training tools, discussion features, and other programming-related services.
 
 Its Privacy Policy explains how personal information is collected and processed when users access and use its services.
 
@@ -18,12 +18,12 @@ Its Privacy Policy explains how personal information is collected and processed 
 
 | Aspect                       | Analysis                                                                                                                                                                                                         |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Personal Data Collection** | LeetCode states that it collects personally identifiable information including persistent identifiers such as IP addresses.                                                                                      |
+| **Personal Data Collection** | HackerRank states that it collects personally identifiable information including persistent identifiers such as IP addresses.                                                                                      |
 | **Purpose of Collection**    | Information may be used to support the internal operation of the website and services, including authentication, network communication, security, personalization, and usage analytics.                          |
-| **Cookies**                  | LeetCode uses session cookies and other technologies to support features, understand interactions, and monitor website traffic. Users can control cookies through browser settings.                              |
+| **Cookies**                  | HackerRank uses session cookies and other technologies to support features, understand interactions, and monitor website traffic. Users can control cookies through browser settings.                              |
 | **Data Sharing**             | Personal information may be shared with service providers that help with maintenance, database management, analytics, and improvement of services.                                                               |
 | **Third-Party Services**     | Third-party websites and services may have their own privacy policies and may collect information when users interact with them.                                                                                 |
-| **Security**                 | LeetCode states that it uses physical, electronic, and managerial measures to protect personal information, while acknowledging that no internet transmission or electronic storage method is completely secure. |
+| **Security**                 | HackerRank states that it uses physical, electronic, and managerial measures to protect personal information, while acknowledging that no internet transmission or electronic storage method is completely secure. |
 | **International Transfer**   | Information may be transferred to and maintained on computers located outside the user's country or jurisdiction, including the United States.                                                                   |
 | **Account Deletion**         | Users can request account deletion. A 15-day cool-off period applies before permanent deletion. During this period, the account data is preserved but is not visible to other users.                             |
 | **Community Content**        | Some comments or posts made by a user may remain visible after account deletion, although the policy states that such content may be displayed anonymously.                                                      |
@@ -36,7 +36,7 @@ Its Privacy Policy explains how personal information is collected and processed 
 
 ### 1. IP Address Collection
 
-LeetCode identifies IP address as a persistent identifier collected for internal operational purposes. Because an IP address can provide information about a user's network or approximate location, its collection should be appropriately protected.
+HackerRank identifies IP address as a persistent identifier collected for internal operational purposes. Because an IP address can provide information about a user's network or approximate location, its collection should be appropriately protected.
 
 ### 2. Cookie and Tracking Technologies
 
@@ -44,7 +44,7 @@ Cookies are used for functionality, understanding user interactions, and monitor
 
 ### 3. Third-Party Service Providers
 
-LeetCode uses external companies for activities such as maintenance, database management, web analytics, and service improvement. This means personal information may be processed by third-party providers.
+HackerRank uses external companies for activities such as maintenance, database management, web analytics, and service improvement. This means personal information may be processed by third-party providers.
 
 ### 4. International Data Transfer
 
@@ -52,11 +52,11 @@ User information may be transferred to another country, including the United Sta
 
 ### 5. Data Remaining During Deletion Period
 
-When an account deletion request is submitted, LeetCode maintains the data during a 15-day cool-off period. Although the information is not visible to other users during this period, it is still retained by the service.
+When an account deletion request is submitted, HackerRank maintains the data during a 15-day cool-off period. Although the information is not visible to other users during this period, it is still retained by the service.
 
 ### 6. Community Posts
 
-Some comments and community posts may remain after an account is deleted, although LeetCode states that such content may be displayed anonymously.
+Some comments and community posts may remain after an account is deleted, although HackerRank states that such content may be displayed anonymously.
 
 ---
 
@@ -77,13 +77,13 @@ Some comments and community posts may remain after an account is deleted, althou
 
 ## Result
 
-The Privacy Policy of **LeetCode** was successfully analyzed. The analysis identified its practices relating to personal-data collection, cookies, usage information, third-party service providers, security, international transfers, account deletion, and community content.
+The Privacy Policy of **HackerRank** was successfully analyzed. The analysis identified its practices relating to personal-data collection, cookies, usage information, third-party service providers, security, international transfers, account deletion, and community content.
 
 ---
 
 ## Conclusion
 
-LeetCode's Privacy Policy provides information about how personal information is collected, used, shared, protected, and transferred. The policy also describes cookies, third-party service providers, international data transfers, and the account-deletion process.
+HackerRank's Privacy Policy provides information about how personal information is collected, used, shared, protected, and transferred. The policy also describes cookies, third-party service providers, international data transfers, and the account-deletion process.
 
 The analysis shows that users should pay particular attention to **IP-address collection, cookies, third-party processing, international data transfers, and the handling of information during and after account deletion**.
 
